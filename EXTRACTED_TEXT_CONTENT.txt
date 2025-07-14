@@ -1,0 +1,355 @@
+ENDISPUTE WEBSITE - EXTRACTED TEXT CONTENT
+=========================================
+
+This document contains all text content extracted from the Endispute website files, 
+preserving exact language and formatting for reference and reuse.
+
+Generated: January 14, 2025
+
+=========================================
+1. MAIN WEBSITE (index.html) - TEXT CONTENT
+=========================================
+
+PAGE TITLE: Endispute - Professional Dispute Resolution Services
+
+META DESCRIPTION: Endispute - Professional dispute resolution and legal mediation services led by Professor Tania Sourdin. Expert ADR solutions for conflicts and disagreements.
+
+NAVIGATION:
+- Home
+- Services  
+- About
+- Process
+- Contact
+- Get Started
+
+HERO SECTION:
+Alternative Dispute Resolution & Expert Mediation
+
+Expert Alternative Dispute Resolution (ADR) and mediation services led by Professor Tania Sourdin. Specializing in innovative approaches to conflict resolution that deliver effective, lasting solutions without the need for traditional courtroom proceedings.
+
+Start Resolution
+Learn More
+
+STATISTICS:
+500+ Cases Resolved
+95% Success Rate  
+15+ Years Experience
+
+SERVICES SECTION:
+Our Services
+Comprehensive dispute resolution tailored to your needs
+
+Alternative Dispute Resolution (ADR)
+Comprehensive ADR services including mediation, arbitration, and other innovative conflict resolution methods designed to resolve disputes efficiently and cost-effectively.
+
+Mediation Services
+Neutral third-party mediation to help resolve conflicts through structured dialogue and negotiation, maintaining relationships while achieving resolution.
+
+Online Dispute Resolution
+Modern online platforms for efficient dispute resolution accessible from anywhere in Australia, utilizing cutting-edge technology for convenience.
+
+Arbitration
+Binding arbitration services for complex disputes requiring definitive resolution, conducted by experienced arbitrators with relevant expertise.
+
+Corporate Disputes
+Specialized resolution for business conflicts, contract disputes, partnership disagreements, and workplace issues affecting organizational operations.
+
+Family Mediation
+Sensitive handling of family disputes including divorce, custody, inheritance matters, and other personal conflicts requiring careful attention.
+
+Commercial Mediation
+Expert resolution of commercial disputes, contract interpretations, business disagreements, and trade-related conflicts.
+
+Real Estate Disputes
+Specialized mediation for property-related conflicts, boundary disputes, landlord-tenant issues, and real estate transaction problems.
+
+ABOUT SECTION:
+Meet Professor Tania Sourdin
+Leading expert in dispute resolution with decades of experience
+
+Professor Tania Sourdin is a renowned expert in Alternative Dispute Resolution (ADR) and mediation services. With decades of experience in conflict resolution, she brings academic excellence, practical expertise, and innovative approaches to dispute resolution.
+
+As a leading academic and practitioner, Professor Sourdin has:
+- Pioneered research in dispute resolution methodologies
+- Published extensively on ADR and mediation practices
+- Developed innovative online dispute resolution platforms
+- Trained thousands of mediators and dispute resolution professionals
+- Received international recognition for contributions to the field
+
+Academic Excellence
+Professor Sourdin brings world-class academic expertise and research-backed approaches to dispute resolution, ensuring evidence-based solutions.
+
+Proven Experience
+Decades of experience in mediation, arbitration, and alternative dispute resolution across Australia and internationally, with a track record of successful outcomes.
+
+Published Authority
+Renowned author and researcher in dispute resolution, with extensive publications and thought leadership in the field of ADR and mediation.
+
+International Recognition
+Globally recognized expert with international speaking engagements, consulting work, and collaborative research projects in dispute resolution.
+
+PROCESS SECTION:
+Our Process
+How we guide you through dispute resolution
+
+Initial Consultation
+We begin with a comprehensive consultation to understand your dispute, assess the situation, and recommend the most appropriate resolution approach.
+
+Strategy Development
+Based on the consultation, we develop a tailored strategy that addresses your specific needs, timeline, and desired outcomes for the dispute resolution process.
+
+Resolution Implementation
+We implement the agreed-upon resolution strategy, whether through mediation, arbitration, or other ADR methods, ensuring all parties are heard and respected.
+
+Follow-up & Support
+After resolution, we provide follow-up support to ensure the agreement is implemented successfully and offer ongoing assistance if needed.
+
+CONTACT SECTION:
+Get Started Today
+Ready to resolve your dispute? Contact us for a consultation.
+
+Phone: +61 2 8006 0425
+Email: tsourdin@endispute.com.au
+Service Area: Online Services - Australia Wide with International Capabilities
+
+Professional Background
+Professor Tania Sourdin is a leading academic expert in dispute resolution with decades of experience in ADR and mediation. She brings international recognition and expertise to every case.
+
+Contact Form Fields:
+- Full Name
+- Email Address  
+- Phone Number
+- Type of Dispute (Business/Corporate, Family/Personal, Commercial, Other)
+- Message/Description
+
+FOOTER CONTENT:
+Endispute
+Professional dispute resolution services for a better tomorrow.
+
+Services:
+- ADR Services
+- Mediation
+- Online Resolution
+- Arbitration
+- Corporate Disputes
+- Family Mediation
+
+About:
+- Professor Tania Sourdin
+- Our Approach
+- Academic Excellence
+- Professional Standards
+
+Contact Info:
+- +61 2 8006 0425
+- tsourdin@endispute.com.au
+- Australia Wide
+- International Services
+
+LinkedIn Profiles:
+- Professor Tania Sourdin: https://www.linkedin.com/in/tania-sourdin-5a78bb5
+- Endispute Company: https://www.linkedin.com/company/endispute
+
+Copyright: © 2024 Endispute. All rights reserved.
+
+=========================================
+2. SIMPLE VERSION (index-simple.html) - TEXT CONTENT
+=========================================
+
+PAGE TITLE: Endispute - Professional Dispute Resolution Services
+
+NAVIGATION:
+- Home
+- Services
+- About  
+- Contact
+- Get Started
+
+HERO SECTION:
+Alternative Dispute Resolution & Expert Mediation
+
+Expert Alternative Dispute Resolution (ADR) and mediation services led by Professor Tania Sourdin. Specializing in innovative approaches to conflict resolution that deliver effective, lasting solutions.
+
+Start Resolution
+Learn More
+
+STATISTICS:
+500+ Cases Resolved
+95% Success Rate
+15+ Years Experience
+
+SERVICES SECTION:
+Our Services
+Comprehensive dispute resolution tailored to your needs
+
+Alternative Dispute Resolution (ADR)
+Comprehensive ADR services including mediation, arbitration, and other innovative conflict resolution methods.
+
+Mediation Services
+Neutral third-party mediation to help resolve conflicts through structured dialogue and negotiation.
+
+Online Dispute Resolution  
+Modern online platforms for efficient dispute resolution accessible from anywhere in Australia.
+
+Corporate Disputes
+Specialized resolution for business conflicts, contract disputes, and partnership disagreements.
+
+Family Mediation
+Sensitive handling of family disputes including divorce, custody, and inheritance matters.
+
+Commercial Mediation
+Expert resolution of commercial disputes, contract interpretations, and business disagreements.
+
+ABOUT SECTION:
+Meet Professor Tania Sourdin
+Leading expert in dispute resolution with decades of experience
+
+Academic Excellence
+Professor Sourdin brings world-class academic expertise and research-backed approaches to dispute resolution.
+
+Proven Experience
+Decades of experience in mediation, arbitration, and alternative dispute resolution across Australia and internationally.
+
+Published Authority
+Renowned author and researcher in dispute resolution, with extensive publications and thought leadership.
+
+Professional Excellence
+Committed to the highest standards of professional practice and ethical conduct in dispute resolution.
+
+CONTACT SECTION:
+Get Started Today
+Ready to resolve your dispute? Contact us for a consultation.
+
+Phone: +61 2 8006 0425
+Email: tsourdin@endispute.com.au
+Service Area: Online Services - Australia Wide
+
+Contact Form Fields:
+- Full Name
+- Email Address
+- Phone Number
+- Type of Dispute (Business/Corporate, Family/Personal, Commercial, Other)
+- Message
+
+FOOTER CONTENT:
+Endispute
+Professional dispute resolution services for a better tomorrow.
+
+Services:
+- ADR Services
+- Mediation
+- Online Resolution
+- Corporate Disputes
+
+Contact Info:
+- +61 2 8006 0425
+- tsourdin@endispute.com.au
+- Australia Wide
+
+LinkedIn Links:
+- Professor Tania Sourdin
+- Endispute Company
+
+Copyright: © 2024 Endispute. All rights reserved.
+
+=========================================
+3. TEST VERSION (test.html) - TEXT CONTENT  
+=========================================
+
+PAGE TITLE: Endispute Test Page
+
+HEADER:
+Endispute - Test Page
+Alternative Dispute Resolution & Expert Mediation
+
+ABOUT SECTION:
+Meet Professor Tania Sourdin
+Leading expert in dispute resolution with decades of experience in Alternative Dispute Resolution (ADR) and mediation services.
+
+SERVICES SECTION:
+Our Services
+- Alternative Dispute Resolution (ADR)
+- Mediation Services
+- Arbitration
+- Online Dispute Resolution
+- Corporate Disputes
+- Family Mediation
+
+CONTACT INFORMATION:
+Phone: +61 2 8006 0425
+Email: tsourdin@endispute.com.au
+Website: endispute.com.au
+Service Area: Online Services - Australia Wide
+
+APPROACH SECTION:
+About Our Approach
+Expert Alternative Dispute Resolution (ADR) and mediation services led by Professor Tania Sourdin. We specialize in innovative approaches to conflict resolution that deliver effective, lasting solutions without the need for traditional courtroom proceedings.
+
+=========================================
+4. KEY MESSAGING AND LANGUAGE CONSISTENCY
+=========================================
+
+CORE VALUE PROPOSITIONS:
+- Expert Alternative Dispute Resolution (ADR) and mediation services
+- Led by Professor Tania Sourdin
+- Innovative approaches to conflict resolution
+- Effective, lasting solutions
+- Without the need for traditional courtroom proceedings
+- Decades of experience
+- Academic excellence and research-backed approaches
+- International recognition and expertise
+- Australia-wide with international capabilities
+
+PROFESSOR TANIA SOURDIN CREDENTIALS:
+- Leading academic expert in dispute resolution
+- Professor and Dispute Resolution Expert
+- Decades of experience in ADR and mediation
+- Published author and researcher
+- International recognition and expertise
+- World-class academic expertise
+- Research-backed approaches
+- Renowned expert
+
+SERVICE CATEGORIES:
+1. Alternative Dispute Resolution (ADR)
+2. Mediation Services
+3. Online Dispute Resolution
+4. Arbitration
+5. Corporate Disputes
+6. Family Mediation
+7. Commercial Mediation
+8. Real Estate Disputes
+
+CONTACT DETAILS (CONSISTENT ACROSS ALL PAGES):
+Phone: +61 2 8006 0425
+Email: tsourdin@endispute.com.au
+Website: endispute.com.au
+Service Area: Online Services - Australia Wide (with International Capabilities)
+
+LINKEDIN PROFILES:
+Personal: https://www.linkedin.com/in/tania-sourdin-5a78bb5
+Company: https://www.linkedin.com/company/endispute
+
+TAGLINES AND SLOGANS:
+- "Alternative Dispute Resolution & Expert Mediation"
+- "Professional dispute resolution services for a better tomorrow"
+- "Comprehensive dispute resolution tailored to your needs"
+- "Leading expert in dispute resolution with decades of experience"
+
+PROCESS LANGUAGE:
+- Initial Consultation
+- Strategy Development  
+- Resolution Implementation
+- Follow-up & Support
+
+QUALITY INDICATORS:
+- 500+ Cases Resolved
+- 95% Success Rate
+- 15+ Years Experience
+
+=========================================
+END OF EXTRACTED CONTENT
+=========================================
+
+This document preserves all text content from the Endispute website files for reference, 
+ensuring exact language and messaging consistency for future use and development.
